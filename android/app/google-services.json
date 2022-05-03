@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "976873902024",
+    "project_id": "flutter-edu-715ba",
+    "storage_bucket": "flutter-edu-715ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976873902024:android:009c6e41641659630cbafd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976873902024-q4e4f4gloo3jqe4va82p8hedt8l8fbch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhiXtLNrweyj5pd5noSDBrmsWFzUMS748"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976873902024-q4e4f4gloo3jqe4va82p8hedt8l8fbch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "976873902024-lghlsdmjli44sccqmpok66pqodbrlo9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseEdu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976873902024:android:488d1cfd1b11c5ad0cbafd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976873902024-q4e4f4gloo3jqe4va82p8hedt8l8fbch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhiXtLNrweyj5pd5noSDBrmsWFzUMS748"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976873902024-q4e4f4gloo3jqe4va82p8hedt8l8fbch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "976873902024-lghlsdmjli44sccqmpok66pqodbrlo9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseEdu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
